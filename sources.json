@@ -1,4 +1,5 @@
 [
-  { "name": "Whats Anu", "url": "https://whatsanu.substack.com/feed/" },
-  { "name": "BOM", "url": "https://becauseofmarketing.substack.com/feed" }
+  { "name": "Wired AI", "url": "https://www.wired.com/feed/tag/ai/latest/rss" },
+  { "name": "Wired Ideas", "url": "https://www.wired.com/feed/category/ideas/latest/rss" },
+  { "name": "Paul Graham", "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss" }
 ]
