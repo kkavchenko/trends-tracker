@@ -36,6 +36,11 @@ def tag_one(title, summary):
         messages=[{"role": "user", "content": TAG_PROMPT.format(title=title, summary=summary or "")}],
     )
     text = msg.content[0].text.strip()
+    if text.startswith("```"):
+        text = text.strip("`")
+        if text.startswith("json"):
+            text = text[4:]
+        text = text.strip()
     try:
         tags = json.loads(text)
         if isinstance(tags, list):
