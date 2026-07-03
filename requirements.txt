@@ -1,0 +1,5 @@
+feedparser==6.0.11
+supabase==2.9.1
+anthropic==0.40.0
+python-dotenv==1.0.1
+playwright==1.48.0

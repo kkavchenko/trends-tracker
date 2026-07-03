@@ -1,0 +1,11 @@
+[
+  {
+    "_comment": "Only add sites with no RSS feed. Each entry needs CSS selectors for the article list on the homepage/index page.",
+    "name": "Example No-RSS Site",
+    "url": "https://example.com/news",
+    "article_selector": "article.post",
+    "title_selector": "h2",
+    "link_selector": "a",
+    "enabled": false
+  }
+]
