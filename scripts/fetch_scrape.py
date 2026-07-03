@@ -38,9 +38,8 @@ def scrape_source(page, source):
         href = link_el.get_attribute("href")
         if not href:
             continue
-        if href.startswith("/"):
-            from urllib.parse import urljoin
-            href = urljoin(source["url"], href)
+        from urllib.parse import urljoin
+        href = urljoin(source["url"], href)
 
         row = {"source": source["name"], "title": title, "url": href}
         try:

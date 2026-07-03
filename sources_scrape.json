@@ -7,5 +7,14 @@
     "title_selector": "h2",
     "link_selector": "a",
     "enabled": false
+  },
+  {
+    "_comment": "paulgraham.com has no RSS. Each essay link sits in its own <font face=verdana> block on articles.html.",
+    "name": "Paul Graham",
+    "url": "https://www.paulgraham.com/articles.html",
+    "article_selector": "font[face=\"verdana\"]",
+    "title_selector": "a",
+    "link_selector": "a",
+    "enabled": true
   }
 ]
