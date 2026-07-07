@@ -5,10 +5,24 @@ week's, sourced entirely from the articles table's existing history
 """
 
 import os
+import re
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 
 from dotenv import load_dotenv
+
+
+def parse_timestamp(value):
+    """Parse an ISO-8601 timestamp string, tolerating the variable-precision
+    fractional-seconds component that Supabase/Postgres produces after
+    trimming trailing zeros (e.g. 5 digits instead of the 3 or 6 that
+    Python's datetime.fromisoformat strictly requires on Python < 3.11).
+    """
+    match = re.match(r"^(.*\.)(\d+)([+-].*)?$", value)
+    if match:
+        prefix, fraction, suffix = match.groups()
+        value = f"{prefix}{fraction.ljust(6, '0')[:6]}{suffix or ''}"
+    return datetime.fromisoformat(value)
 
 
 def split_windows(rows, now):
@@ -17,7 +31,7 @@ def split_windows(rows, now):
     this_week = []
     last_week = []
     for row in rows:
-        scraped_at = datetime.fromisoformat(row["scraped_at"])
+        scraped_at = parse_timestamp(row["scraped_at"])
         if scraped_at >= this_week_start:
             this_week.append(row)
         elif scraped_at >= last_week_start:
@@ -56,7 +70,7 @@ def rank_tags(this_week_counts, last_week_counts, top_n=10):
 
 def pick_examples(this_week_rows, tag, limit=2):
     matches = [r for r in this_week_rows if tag in (r.get("tags") or [])]
-    matches.sort(key=lambda r: datetime.fromisoformat(r["scraped_at"]), reverse=True)
+    matches.sort(key=lambda r: parse_timestamp(r["scraped_at"]), reverse=True)
     seen = set()
     examples = []
     for r in matches:

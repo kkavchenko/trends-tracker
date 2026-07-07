@@ -4,6 +4,42 @@ from datetime import datetime, timedelta, timezone
 import digest
 
 
+def test_split_windows_handles_variable_precision_fractional_seconds():
+    # Real Supabase/Postgres timestamps trim trailing zeros in the
+    # fractional seconds component, producing arbitrary digit counts (e.g.
+    # 5 digits) that Python 3.9's strict datetime.fromisoformat rejects
+    # (it only accepts exactly 3 or 6 digits).
+    now = datetime(2026, 7, 10, tzinfo=timezone.utc)
+    rows = [
+        {"scraped_at": "2026-07-03T16:51:03.74939+00:00"},  # this week, 5 fractional digits
+    ]
+    this_week, last_week = digest.split_windows(rows, now)
+    assert len(this_week) == 1
+    assert len(last_week) == 0
+
+
+def test_parse_timestamp_normalizes_variable_precision_fractions():
+    # 5 digits (the real-world bug case)
+    dt = digest.parse_timestamp("2026-07-03T16:51:03.74939+00:00")
+    assert dt.microsecond == 749390
+
+    # 1 digit
+    dt = digest.parse_timestamp("2026-07-03T16:51:03.7+00:00")
+    assert dt.microsecond == 700000
+
+    # 6 digits (already valid, should be unchanged)
+    dt = digest.parse_timestamp("2026-07-03T16:51:03.749390+00:00")
+    assert dt.microsecond == 749390
+
+    # 9 digits (nanosecond precision, should truncate to microseconds)
+    dt = digest.parse_timestamp("2026-07-03T16:51:03.749390123+00:00")
+    assert dt.microsecond == 749390
+
+    # no fractional-seconds component at all
+    dt = digest.parse_timestamp("2026-07-01T00:00:00+00:00")
+    assert dt.microsecond == 0
+
+
 def test_split_windows_separates_this_and_last_week():
     now = datetime(2026, 7, 10, tzinfo=timezone.utc)
     rows = [
