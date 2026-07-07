@@ -19,7 +19,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install supabase python-dotenv
+        run: pip install supabase python-dotenv python-dateutil==2.9.0.post0
 
       - name: Generate digest
         env:
