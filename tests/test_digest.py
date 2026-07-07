@@ -79,3 +79,14 @@ def test_render_markdown_handles_zero_articles():
     now = datetime(2026, 7, 10, tzinfo=timezone.utc)
     md = digest.render_markdown(now, [])
     assert "No new articles in the last 7 days." in md
+
+
+def test_build_digest_entries_attaches_examples():
+    this_week_rows = [
+        {"tags": ["ai"], "url": "https://x.com/1", "title": "T1", "source": "S", "scraped_at": "2026-07-09T00:00:00+00:00"},
+    ]
+    last_week_rows = []
+    entries = digest.build_digest_entries(this_week_rows, last_week_rows)
+    assert entries[0]["tag"] == "ai"
+    assert entries[0]["direction"] == "🆕"
+    assert entries[0]["examples"][0]["url"] == "https://x.com/1"

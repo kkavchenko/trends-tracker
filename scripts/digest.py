@@ -92,3 +92,12 @@ def render_markdown(now, entries):
             lines.append(f"- [{article['title']}]({article['url']}) — {article['source']}")
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"
+
+
+def build_digest_entries(this_week_rows, last_week_rows, top_n=10, examples_per_tag=2):
+    this_counts = count_tags(this_week_rows)
+    last_counts = count_tags(last_week_rows)
+    ranked = rank_tags(this_counts, last_counts, top_n=top_n)
+    for entry in ranked:
+        entry["examples"] = pick_examples(this_week_rows, entry["tag"], limit=examples_per_tag)
+    return ranked
