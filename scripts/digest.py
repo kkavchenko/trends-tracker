@@ -5,24 +5,19 @@ week's, sourced entirely from the articles table's existing history
 """
 
 import os
-import re
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 
+from dateutil.parser import isoparse
 from dotenv import load_dotenv
 
 
 def parse_timestamp(value):
     """Parse an ISO-8601 timestamp string, tolerating the variable-precision
-    fractional-seconds component that Supabase/Postgres produces after
-    trimming trailing zeros (e.g. 5 digits instead of the 3 or 6 that
-    Python's datetime.fromisoformat strictly requires on Python < 3.11).
+    fractional-seconds component and both Z/offset suffix styles that
+    Supabase/Postgres can produce.
     """
-    match = re.match(r"^(.*\.)(\d+)([+-].*)?$", value)
-    if match:
-        prefix, fraction, suffix = match.groups()
-        value = f"{prefix}{fraction.ljust(6, '0')[:6]}{suffix or ''}"
-    return datetime.fromisoformat(value)
+    return isoparse(value)
 
 
 def split_windows(rows, now):

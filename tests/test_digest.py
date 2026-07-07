@@ -40,6 +40,15 @@ def test_parse_timestamp_normalizes_variable_precision_fractions():
     assert dt.microsecond == 0
 
 
+def test_parse_timestamp_handles_z_suffix():
+    # Supabase/Postgres timestamps can also come back with a "Z" suffix
+    # instead of an explicit "+00:00" offset; the old hand-rolled regex
+    # raised ValueError on this shape.
+    dt = digest.parse_timestamp("2026-07-03T16:51:03.74939Z")
+    assert dt.microsecond == 749390
+    assert dt.tzinfo is not None
+
+
 def test_split_windows_separates_this_and_last_week():
     now = datetime(2026, 7, 10, tzinfo=timezone.utc)
     rows = [
