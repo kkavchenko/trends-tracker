@@ -28,3 +28,24 @@ def count_tags(rows):
         for tag in (row.get("tags") or []):
             counter[tag] += 1
     return counter
+
+
+def rank_tags(this_week_counts, last_week_counts, top_n=10):
+    ranked = []
+    for tag, this_count in this_week_counts.most_common(top_n):
+        last_count = last_week_counts.get(tag, 0)
+        if last_count == 0:
+            direction = "🆕"
+        elif this_count > last_count:
+            direction = "↑"
+        elif this_count < last_count:
+            direction = "↓"
+        else:
+            direction = "→"
+        ranked.append({
+            "tag": tag,
+            "this_count": this_count,
+            "last_count": last_count,
+            "direction": direction,
+        })
+    return ranked
