@@ -49,3 +49,18 @@ def rank_tags(this_week_counts, last_week_counts, top_n=10):
             "direction": direction,
         })
     return ranked
+
+
+def pick_examples(this_week_rows, tag, limit=2):
+    matches = [r for r in this_week_rows if tag in (r.get("tags") or [])]
+    matches.sort(key=lambda r: datetime.fromisoformat(r["scraped_at"]), reverse=True)
+    seen = set()
+    examples = []
+    for r in matches:
+        if r["url"] in seen:
+            continue
+        seen.add(r["url"])
+        examples.append(r)
+        if len(examples) >= limit:
+            break
+    return examples

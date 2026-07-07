@@ -46,3 +46,16 @@ def test_rank_tags_respects_top_n_limit():
     last_week = Counter()
     ranked = digest.rank_tags(this_week, last_week, top_n=10)
     assert len(ranked) == 10
+
+
+def test_pick_examples_returns_most_recent_deduped():
+    rows = [
+        {"tags": ["ai"], "url": "https://a.com/1", "title": "A", "source": "S", "scraped_at": "2026-07-01T00:00:00+00:00"},
+        {"tags": ["ai"], "url": "https://a.com/2", "title": "B", "source": "S", "scraped_at": "2026-07-03T00:00:00+00:00"},
+        {"tags": ["ai"], "url": "https://a.com/2", "title": "B dup", "source": "S", "scraped_at": "2026-07-03T00:00:00+00:00"},
+        {"tags": ["other"], "url": "https://a.com/3", "title": "C", "source": "S", "scraped_at": "2026-07-04T00:00:00+00:00"},
+    ]
+    examples = digest.pick_examples(rows, "ai", limit=2)
+    assert len(examples) == 2
+    assert examples[0]["url"] == "https://a.com/2"
+    assert examples[1]["url"] == "https://a.com/1"
