@@ -64,3 +64,31 @@ def pick_examples(this_week_rows, tag, limit=2):
         if len(examples) >= limit:
             break
     return examples
+
+
+def render_markdown(now, entries):
+    date_str = now.strftime("%Y-%m-%d")
+    if not entries:
+        return f"# News Tracker Digest — {date_str}\n\nNo new articles in the last 7 days.\n"
+
+    lines = [f"# News Tracker Digest — {date_str}", "", "## Top Trends (this week vs. last week)", ""]
+    for i, entry in enumerate(entries, start=1):
+        tag = entry["tag"]
+        this_count = entry["this_count"]
+        last_count = entry["last_count"]
+        direction = entry["direction"]
+        plural = "s" if this_count != 1 else ""
+        if direction == "🆕":
+            note = "🆕 new this week"
+        elif direction == "→":
+            note = f"→ steady, was {last_count} last week"
+        elif direction == "↑":
+            note = f"↑ from {last_count} last week"
+        else:
+            note = f"↓ from {last_count} last week"
+
+        lines.append(f"### {i}. {tag} — {this_count} article{plural} this week ({note})")
+        for article in entry["examples"]:
+            lines.append(f"- [{article['title']}]({article['url']}) — {article['source']}")
+        lines.append("")
+    return "\n".join(lines).rstrip() + "\n"

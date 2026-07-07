@@ -59,3 +59,23 @@ def test_pick_examples_returns_most_recent_deduped():
     assert len(examples) == 2
     assert examples[0]["url"] == "https://a.com/2"
     assert examples[1]["url"] == "https://a.com/1"
+
+
+def test_render_markdown_formats_entries_with_directions():
+    now = datetime(2026, 7, 10, tzinfo=timezone.utc)
+    entries = [
+        {
+            "tag": "ai", "this_count": 12, "last_count": 7, "direction": "↑",
+            "examples": [{"title": "EU Finalizes AI Act", "url": "https://x.com/1", "source": "Wired AI"}],
+        },
+    ]
+    md = digest.render_markdown(now, entries)
+    assert "# News Tracker Digest — 2026-07-10" in md
+    assert "### 1. ai — 12 articles this week (↑ from 7 last week)" in md
+    assert "[EU Finalizes AI Act](https://x.com/1) — Wired AI" in md
+
+
+def test_render_markdown_handles_zero_articles():
+    now = datetime(2026, 7, 10, tzinfo=timezone.utc)
+    md = digest.render_markdown(now, [])
+    assert "No new articles in the last 7 days." in md
