@@ -4,8 +4,11 @@ week's, sourced entirely from the articles table's existing history
 (no separate archive file is kept).
 """
 
+import os
 from collections import Counter
 from datetime import datetime, timedelta, timezone
+
+from dotenv import load_dotenv
 
 
 def split_windows(rows, now):
@@ -101,3 +104,33 @@ def build_digest_entries(this_week_rows, last_week_rows, top_n=10, examples_per_
     for entry in ranked:
         entry["examples"] = pick_examples(this_week_rows, entry["tag"], limit=examples_per_tag)
     return ranked
+
+
+def fetch_recent_articles(sb, days=14):
+    since = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
+    result = (
+        sb.table("articles")
+        .select("tags, title, url, source, scraped_at")
+        .gte("scraped_at", since)
+        .execute()
+    )
+    return result.data
+
+
+def main():
+    load_dotenv()
+    from supabase import create_client
+    sb = create_client(os.environ["SUPABASE_URL"], os.environ["SUPABASE_KEY"])
+
+    now = datetime.now(timezone.utc)
+    rows = fetch_recent_articles(sb, days=14)
+    this_week_rows, last_week_rows = split_windows(rows, now)
+    entries = build_digest_entries(this_week_rows, last_week_rows)
+    markdown = render_markdown(now, entries)
+    with open("digest.md", "w") as f:
+        f.write(markdown)
+    print(f"Wrote digest.md with {len(entries)} trending tags.")
+
+
+if __name__ == "__main__":
+    main()
