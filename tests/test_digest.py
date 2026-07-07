@@ -15,3 +15,15 @@ def test_split_windows_separates_this_and_last_week():
     this_week, last_week = digest.split_windows(rows, now)
     assert len(this_week) == 2
     assert len(last_week) == 2
+
+
+def test_count_tags_counts_each_tag_occurrence():
+    rows = [
+        {"tags": ["ai", "policy"]},
+        {"tags": ["ai"]},
+        {"tags": None},
+        {"tags": []},
+    ]
+    counts = digest.count_tags(rows)
+    assert counts["ai"] == 2
+    assert counts["policy"] == 1

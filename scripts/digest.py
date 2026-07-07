@@ -4,6 +4,7 @@ week's, sourced entirely from the articles table's existing history
 (no separate archive file is kept).
 """
 
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 
 
@@ -19,3 +20,11 @@ def split_windows(rows, now):
         elif scraped_at >= last_week_start:
             last_week.append(row)
     return this_week, last_week
+
+
+def count_tags(rows):
+    counter = Counter()
+    for row in rows:
+        for tag in (row.get("tags") or []):
+            counter[tag] += 1
+    return counter
