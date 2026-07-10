@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-07-09
+# News Tracker Digest — 2026-07-10
 
 ## Top Trends (this week vs. last week)
 
@@ -38,6 +38,6 @@
 - [This Week In Marketing](https://becauseofmarketing.substack.com/p/this-week-in-marketing) — BOM
 - [This Week In Marketing](https://becauseofmarketing.substack.com/p/this-week-in-marketing-622) — BOM
 
-### 10. programming languages — 7 articles this week (🆕 new this week)
-- [Lisp for Web-Based Applications](https://www.paulgraham.com/lwba.html) — Paul Graham
-- [Java's Cover](https://www.paulgraham.com/javacover.html) — Paul Graham
+### 10. AI regulation — 7 articles this week (🆕 new this week)
+- [The $28 Million Mistake That Inspired Estonia’s AI ‘Fuckup Finder’](https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/) — Wired AI
+- [This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster](https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/) — Wired AI
