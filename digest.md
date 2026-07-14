@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-07-13
+# News Tracker Digest — 2026-07-14
 
 ## Top Trends (this week vs. last week)
 
@@ -27,11 +27,11 @@
 ### 7. opt-out policy — 1 article this week (🆕 new this week)
 - [Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out](https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/) — Wired AI
 
-### 8. trade secrets — 1 article this week (🆕 new this week)
-- [Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets](https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/) — Wired AI
+### 8. AI assistants — 1 article this week (🆕 new this week)
+- [Siri AI Is Becoming Apple’s Everything Tool](https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/) — Wired AI
 
-### 9. AI competition — 1 article this week (🆕 new this week)
-- [Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets](https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/) — Wired AI
+### 9. Apple — 1 article this week (🆕 new this week)
+- [Siri AI Is Becoming Apple’s Everything Tool](https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/) — Wired AI
 
-### 10. tech litigation — 1 article this week (🆕 new this week)
-- [Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets](https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/) — Wired AI
+### 10. voice AI — 1 article this week (🆕 new this week)
+- [Siri AI Is Becoming Apple’s Everything Tool](https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/) — Wired AI
