@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-07-19
+# News Tracker Digest — 2026-07-20
 
 ## Top Trends (this week vs. last week)
 
@@ -10,26 +10,26 @@
 - [Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis](https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/) — Wired AI
 - [Thinking Machines Lab Drops Its First Model](https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/) — Wired AI
 
-### 3. quantum computing — 1 article this week (🆕 new this week)
-- [Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/) — Wired AI
-
-### 4. drug discovery — 1 article this week (🆕 new this week)
-- [Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/) — Wired AI
-
-### 5. AI research — 1 article this week (🆕 new this week)
-- [Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides](https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/) — Wired AI
-
-### 6. AI assistants — 1 article this week (🆕 new this week)
+### 3. AI assistants — 1 article this week (🆕 new this week)
 - [Siri AI Is Becoming Apple’s Everything Tool](https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/) — Wired AI
 
-### 7. Apple — 1 article this week (🆕 new this week)
+### 4. Apple — 1 article this week (🆕 new this week)
 - [Siri AI Is Becoming Apple’s Everything Tool](https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/) — Wired AI
 
-### 8. voice AI — 1 article this week (🆕 new this week)
+### 5. voice AI — 1 article this week (🆕 new this week)
 - [Siri AI Is Becoming Apple’s Everything Tool](https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/) — Wired AI
 
-### 9. tech skepticism — 1 article this week (🆕 new this week)
+### 6. tech skepticism — 1 article this week (🆕 new this week)
 - [This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone](https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/) — Wired AI
 
-### 10. digital culture — 1 article this week (🆕 new this week)
+### 7. digital culture — 1 article this week (🆕 new this week)
 - [This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone](https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/) — Wired AI
+
+### 8. luddism — 1 article this week (🆕 new this week)
+- [This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone](https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/) — Wired AI
+
+### 9. chatbots — 1 article this week (→ steady, was 1 last week)
+- [The Chatbot That Foretold Why People Share Secrets With ChatGPT](https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/) — Wired AI
+
+### 10. human-AI interaction — 1 article this week (🆕 new this week)
+- [The Chatbot That Foretold Why People Share Secrets With ChatGPT](https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/) — Wired AI
