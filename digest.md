@@ -1,35 +1,38 @@
-# News Tracker Digest — 2026-07-21
+# News Tracker Digest — 2026-07-22
 
 ## Top Trends (this week vs. last week)
 
-### 1. deepfakes — 2 articles this week (🆕 new this week)
-- [San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores](https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/) — Wired AI
-- [YouTube and X Have Become ‘Gateways’ to Nudify Apps](https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/) — Wired AI
-
-### 2. AI competition — 2 articles this week (↑ from 1 last week)
+### 1. AI competition — 2 articles this week (↑ from 1 last week)
 - [Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis](https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/) — Wired AI
 - [Thinking Machines Lab Drops Its First Model](https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/) — Wired AI
 
-### 3. tech skepticism — 1 article this week (🆕 new this week)
-- [This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone](https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/) — Wired AI
+### 2. cybersecurity — 2 articles this week (🆕 new this week)
+- [OpenAI Models Escaped Containment and Hacked Hugging Face](https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/) — Wired AI
+- [Your Period Tracker Is (Probably) Spying on You](https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/) — Wired AI
 
-### 4. digital culture — 1 article this week (🆕 new this week)
-- [This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone](https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/) — Wired AI
+### 3. AI usage limits — 2 articles this week (🆕 new this week)
+- [The Army Is Burning Through Its AI Tokens](https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/) — Wired AI
+- [How Google’s New Gemini Rates Work and How to Track Your Usage](https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/) — Wired AI
 
-### 5. luddism — 1 article this week (🆕 new this week)
-- [This Luddite Puppet Hopes You’re Not Reading This on Your Smartphone](https://www.wired.com/story/the-big-interview-podcast-summer-of-ludd-gowanus/) — Wired AI
+### 4. AI security — 2 articles this week (🆕 new this week)
+- [A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots](https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/) — Wired AI
+- [Prompt Injection Attacks Are Thwarting AI Hacking Agents](https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/) — Wired AI
 
-### 6. chatbots — 1 article this week (→ steady, was 1 last week)
-- [The Chatbot That Foretold Why People Share Secrets With ChatGPT](https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/) — Wired AI
+### 5. AI hardware — 2 articles this week (🆕 new this week)
+- [Nvidia Wants to Own Every Chip Inside AI Data Centers](https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/) — Wired AI
+- [This Former Intel CEO Wants to Jumpstart Moore’s Law With Light](https://www.wired.com/story/pat-gelsinger-moores-law-light-chips/) — Wired AI
 
-### 7. human-AI interaction — 1 article this week (🆕 new this week)
-- [The Chatbot That Foretold Why People Share Secrets With ChatGPT](https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/) — Wired AI
+### 6. AI health diagnostics — 1 article this week (🆕 new this week)
+- [An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI](https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/) — Wired AI
 
-### 8. AI history — 1 article this week (🆕 new this week)
-- [The Chatbot That Foretold Why People Share Secrets With ChatGPT](https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/) — Wired AI
+### 7. brain scanning — 1 article this week (🆕 new this week)
+- [An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI](https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/) — Wired AI
 
-### 9. AI governance — 1 article this week (→ steady, was 1 last week)
-- [DOGE Used AI for Housing Policy. The Government Won’t Say How](https://www.wired.com/story/doge-deployed-ai-housing-policy/) — Wired AI
+### 8. medtech — 1 article this week (🆕 new this week)
+- [An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI](https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/) — Wired AI
 
-### 10. DOGE — 1 article this week (🆕 new this week)
-- [DOGE Used AI for Housing Policy. The Government Won’t Say How](https://www.wired.com/story/doge-deployed-ai-housing-policy/) — Wired AI
+### 9. AI chatbots — 1 article this week (🆕 new this week)
+- [My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell](https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/) — Wired AI
+
+### 10. customer service — 1 article this week (🆕 new this week)
+- [My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell](https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/) — Wired AI
