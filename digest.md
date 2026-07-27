@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-07-26
+# News Tracker Digest — 2026-07-27
 
 ## Top Trends (this week vs. last week)
 
