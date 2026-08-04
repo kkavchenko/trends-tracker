@@ -1,17 +1,17 @@
-# News Tracker Digest — 2026-08-03
+# News Tracker Digest — 2026-08-04
 
 ## Top Trends (this week vs. last week)
 
-### 1. AI safety — 6 articles this week (↑ from 1 last week)
+### 1. AI safety — 5 articles this week (↑ from 2 last week)
 - [The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier](https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/) — Wired AI
 - [Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance](https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/) — Wired AI
 
-### 2. AI policy — 2 articles this week (↑ from 1 last week)
-- [Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic](https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/) — Wired AI
-- [This Is Donald Trump’s AI Brain Trust](https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/) — Wired AI
-
-### 3. AI security — 2 articles this week (→ steady, was 2 last week)
+### 2. AI security — 2 articles this week (→ steady, was 2 last week)
 - [Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting](https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/) — Wired AI
+- [OpenAI’s Hacking Debacle Comes Down to Human Error](https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/) — Wired AI
+
+### 3. generative AI — 2 articles this week (↑ from 1 last week)
+- [Did an AI Music App Just Snitch on the Song of the Summer?](https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/) — Wired AI
 - [OpenAI’s Hacking Debacle Comes Down to Human Error](https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/) — Wired AI
 
 ### 4. robotics — 2 articles this week (🆕 new this week)
@@ -34,8 +34,8 @@
 - [Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives](https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/) — Wired AI
 - [The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier](https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/) — Wired AI
 
-### 9. Trump administration — 1 article this week (🆕 new this week)
-- [This Is Donald Trump’s AI Brain Trust](https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/) — Wired AI
+### 9. AI copyright — 1 article this week (🆕 new this week)
+- [Can the New York Times Save Journalism From Our AI Overlords?](https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/) — Wired AI
 
-### 10. AI governance — 1 article this week (🆕 new this week)
-- [This Is Donald Trump’s AI Brain Trust](https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/) — Wired AI
+### 10. media lawsuits — 1 article this week (🆕 new this week)
+- [Can the New York Times Save Journalism From Our AI Overlords?](https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/) — Wired AI
