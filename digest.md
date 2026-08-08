@@ -1,14 +1,14 @@
-# News Tracker Digest — 2026-08-07
+# News Tracker Digest — 2026-08-08
 
 ## Top Trends (this week vs. last week)
 
-### 1. AI safety — 4 articles this week (↓ from 5 last week)
+### 1. AI regulation — 5 articles this week (🆕 new this week)
+- [Scientists Used AI to Create 16 New Viruses](https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/) — Wired AI
+- [AI Influencers Are Heading Into Uncharted Territory](https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/) — Wired AI
+
+### 2. AI safety — 4 articles this week (↓ from 5 last week)
 - [One of China’s Most Powerful AI Models Has Also Escaped Containment](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/) — Wired AI
 - [OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/) — Wired AI
-
-### 2. AI regulation — 4 articles this week (↑ from 1 last week)
-- [AI Influencers Are Heading Into Uncharted Territory](https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/) — Wired AI
-- [The White House Is Keeping Its AI Cybersecurity Framework Secret](https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/) — Wired AI
 
 ### 3. cybersecurity — 3 articles this week (↑ from 2 last week)
 - [OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/) — Wired AI
@@ -38,5 +38,5 @@
 - [OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts](https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/) — Wired AI
 - [OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/) — Wired AI
 
-### 10. AI discourse — 1 article this week (🆕 new this week)
-- [Chinese AI Researchers Are Finding Their Voice on X](https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/) — Wired AI
+### 10. cyberattacks — 1 article this week (🆕 new this week)
+- [7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran](https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/) — Wired AI
