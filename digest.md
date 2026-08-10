@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-08-09
+# News Tracker Digest — 2026-08-10
 
 ## Top Trends (this week vs. last week)
 
@@ -34,9 +34,10 @@
 - [OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/) — Wired AI
 - [The White House Is Keeping Its AI Cybersecurity Framework Secret](https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/) — Wired AI
 
-### 9. agentic AI — 2 articles this week (🆕 new this week)
+### 9. productivity tools — 2 articles this week (🆕 new this week)
+- [Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How](https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/) — Wired AI
+- [The AI Notetaker Has Been Invited to All the Meetings](https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/) — Wired AI
+
+### 10. agentic AI — 2 articles this week (🆕 new this week)
 - [OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts](https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/) — Wired AI
 - [OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/) — Wired AI
-
-### 10. surveillance backlash — 1 article this week (🆕 new this week)
-- [The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them](https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/) — Wired AI
