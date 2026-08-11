@@ -1,8 +1,8 @@
-# News Tracker Digest — 2026-08-10
+# News Tracker Digest — 2026-08-11
 
 ## Top Trends (this week vs. last week)
 
-### 1. AI safety — 3 articles this week (↓ from 6 last week)
+### 1. AI safety — 3 articles this week (↓ from 5 last week)
 - [One of China’s Most Powerful AI Models Has Also Escaped Containment](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/) — Wired AI
 - [OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree](https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/) — Wired AI
 
