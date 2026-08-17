@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-08-16
+# News Tracker Digest — 2026-08-17
 
 ## Top Trends (this week vs. last week)
 
@@ -18,21 +18,21 @@
 - [The Safety Reckoning Inside OpenAI](https://www.wired.com/story/openai-safety-security-ai-agents-culture/) — Wired AI
 - [Rogue AI Agents Aren’t Evil. They’re Just Eager to Please](https://www.wired.com/story/rogue-ai-is-just-misunderstood/) — Wired AI
 
-### 5. AI regulation — 2 articles this week (↓ from 4 last week)
+### 5. AI regulation — 2 articles this week (↓ from 3 last week)
 - [People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them](https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/) — Wired AI
 - [The White House Is Going to Expand Its AI Policy](https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/) — Wired AI
 
-### 6. AI transcription — 1 article this week (🆕 new this week)
-- [Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How](https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/) — Wired AI
+### 6. AI content — 1 article this week (🆕 new this week)
+- [The AI Slop Backlash Is Actually Having an Impact](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/) — Wired AI
 
-### 7. open source — 1 article this week (→ steady, was 1 last week)
-- [Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How](https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/) — Wired AI
+### 7. platform moderation — 1 article this week (🆕 new this week)
+- [The AI Slop Backlash Is Actually Having an Impact](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/) — Wired AI
 
-### 8. productivity tools — 1 article this week (→ steady, was 1 last week)
-- [Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How](https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/) — Wired AI
+### 8. AI backlash — 1 article this week (→ steady, was 1 last week)
+- [The AI Slop Backlash Is Actually Having an Impact](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/) — Wired AI
 
-### 9. AI philanthropy — 1 article this week (🆕 new this week)
-- [These AI Barons Are Ready to Give Away Their Fortunes](https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/) — Wired AI
+### 9. AI hiring — 1 article this week (🆕 new this week)
+- [The Rise of the 1 am Job Interview](https://www.wired.com/story/the-rise-of-the-1-am-job-interview/) — Wired AI
 
-### 10. tech wealth — 1 article this week (🆕 new this week)
-- [These AI Barons Are Ready to Give Away Their Fortunes](https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/) — Wired AI
+### 10. recruitment automation — 1 article this week (🆕 new this week)
+- [The Rise of the 1 am Job Interview](https://www.wired.com/story/the-rise-of-the-1-am-job-interview/) — Wired AI
