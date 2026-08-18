@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-08-17
+# News Tracker Digest — 2026-08-18
 
 ## Top Trends (this week vs. last week)
 
@@ -22,17 +22,17 @@
 - [People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them](https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/) — Wired AI
 - [The White House Is Going to Expand Its AI Policy](https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/) — Wired AI
 
-### 6. AI content — 1 article this week (🆕 new this week)
-- [The AI Slop Backlash Is Actually Having an Impact](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/) — Wired AI
+### 6. AI vulnerability — 1 article this week (🆕 new this week)
+- [A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call](https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/) — Wired AI
 
-### 7. platform moderation — 1 article this week (🆕 new this week)
-- [The AI Slop Backlash Is Actually Having an Impact](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/) — Wired AI
+### 7. Zoom — 1 article this week (🆕 new this week)
+- [A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call](https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/) — Wired AI
 
-### 8. AI backlash — 1 article this week (→ steady, was 1 last week)
-- [The AI Slop Backlash Is Actually Having an Impact](https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/) — Wired AI
+### 8. AI interpretability — 1 article this week (🆕 new this week)
+- [A New Trick Reveals AI Models’ Inner Thoughts](https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/) — Wired AI
 
-### 9. AI hiring — 1 article this week (🆕 new this week)
-- [The Rise of the 1 am Job Interview](https://www.wired.com/story/the-rise-of-the-1-am-job-interview/) — Wired AI
+### 9. model transparency — 1 article this week (🆕 new this week)
+- [A New Trick Reveals AI Models’ Inner Thoughts](https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/) — Wired AI
 
-### 10. recruitment automation — 1 article this week (🆕 new this week)
-- [The Rise of the 1 am Job Interview](https://www.wired.com/story/the-rise-of-the-1-am-job-interview/) — Wired AI
+### 10. biotech — 1 article this week (🆕 new this week)
+- [AI Is Dead. Organoids Are Alive](https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/) — Wired AI
