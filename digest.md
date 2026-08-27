@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-08-26
+# News Tracker Digest — 2026-08-27
 
 ## Top Trends (this week vs. last week)
 
@@ -10,28 +10,30 @@
 - [Chapter 2 of Ansi Common Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1787683699&) — Paul Graham
 - [Chapter 1 of Ansi Common Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1787683699&) — Paul Graham
 
-### 3. computer science — 2 articles this week (🆕 new this week)
+### 3. data centers — 3 articles this week (🆕 new this week)
+- [The UK Power Grid Has a Phantom Data Center Problem](https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/) — Wired AI
+- [Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/) — Wired AI
+
+### 4. computer science — 2 articles this week (🆕 new this week)
 - [Chapter 1 of Ansi Common Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1787683699&) — Paul Graham
 - [Chapter 1 of Ansi Common Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1787619800&) — Paul Graham
 
-### 4. learning — 2 articles this week (🆕 new this week)
+### 5. learning — 2 articles this week (🆕 new this week)
 - [Chapter 2 of Ansi Common Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1787683699&) — Paul Graham
 - [Chapter 2 of Ansi Common Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1787619800&) — Paul Graham
 
-### 5. surveillance tech — 1 article this week (🆕 new this week)
-- [Flock Has a Powerful New AI Tool for Police. We Got Its Code](https://www.wired.com/story/flock-safety-os-investigate/) — Wired AI
+### 6. AI safety — 2 articles this week (→ steady, was 2 last week)
+- [Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/) — Wired AI
+- [What We Still Don’t Know About OpenAI’s Hugging Face Hack](https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/) — Wired AI
 
-### 6. AI policing — 1 article this week (🆕 new this week)
-- [Flock Has a Powerful New AI Tool for Police. We Got Its Code](https://www.wired.com/story/flock-safety-os-investigate/) — Wired AI
+### 7. AI backlash — 1 article this week (🆕 new this week)
+- [Silicon Valley Doesn't Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/) — Wired AI
 
-### 7. privacy — 1 article this week (🆕 new this week)
-- [Flock Has a Powerful New AI Tool for Police. We Got Its Code](https://www.wired.com/story/flock-safety-os-investigate/) — Wired AI
+### 8. tech disconnect — 1 article this week (🆕 new this week)
+- [Silicon Valley Doesn't Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/) — Wired AI
 
-### 8. AI watermarking — 1 article this week (🆕 new this week)
-- [Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/) — Wired AI
+### 9. AI criticism — 1 article this week (🆕 new this week)
+- [Silicon Valley Doesn't Get Why You Hate AI](https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/) — Wired AI
 
-### 9. content provenance — 1 article this week (🆕 new this week)
-- [Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/) — Wired AI
-
-### 10. AI regulation — 1 article this week (↓ from 2 last week)
-- [Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks](https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/) — Wired AI
+### 10. NHS privatisation — 1 article this week (🆕 new this week)
+- [The Single English County Saying No to Palantir](https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/) — Wired AI
