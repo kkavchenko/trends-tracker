@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-08-29
+# News Tracker Digest — 2026-08-30
 
 ## Top Trends (this week vs. last week)
 
@@ -30,14 +30,14 @@
 - [Chapter 2 of Ansi Common Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1787683699&) — Paul Graham
 - [Chapter 2 of Ansi Common Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1787619800&) — Paul Graham
 
-### 8. AI training data — 2 articles this week (🆕 new this week)
+### 8. data privacy — 2 articles this week (🆕 new this week)
+- [How to Run a Chatbot on Your Own Computer](https://www.wired.com/story/how-to-run-your-own-local-llm/) — Wired AI
+- [Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out](https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/) — Wired AI
+
+### 9. AI training data — 2 articles this week (🆕 new this week)
 - [He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them](https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/) — Wired AI
 - [Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out](https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/) — Wired AI
 
-### 9. OpenAI — 2 articles this week (↑ from 1 last week)
+### 10. OpenAI — 2 articles this week (↑ from 1 last week)
 - [OpenAI Is Developing a ‘Persistent’ AI Agent](https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/) — Wired AI
 - [What We Still Don’t Know About OpenAI’s Hugging Face Hack](https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/) — Wired AI
-
-### 10. AI regulation — 2 articles this week (↑ from 1 last week)
-- [A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic](https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/) — Wired AI
-- [Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety](https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/) — Wired AI
