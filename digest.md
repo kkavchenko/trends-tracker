@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-09-04
+# News Tracker Digest — 2026-09-05
 
 ## Top Trends (this week vs. last week)
 
@@ -22,17 +22,17 @@
 - [AI Use in the Job Market Is Creating an Infinite Doom Loop](https://www.wired.com/story/ai-job-market-infinite-doom-loop/) — Wired AI
 - [The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other](https://www.wired.com/story/bot-vs-bot-job-interview-ai/) — Wired AI
 
-### 6. AI healthcare — 1 article this week (🆕 new this week)
-- [AI Has Human Doctors Asking: What’s Left for Us?](https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/) — Wired AI
+### 6. cybersecurity threats — 1 article this week (🆕 new this week)
+- [The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn](https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/) — Wired AI
 
-### 7. automation anxiety — 1 article this week (🆕 new this week)
-- [AI Has Human Doctors Asking: What’s Left for Us?](https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/) — Wired AI
+### 7. AI risk — 1 article this week (🆕 new this week)
+- [The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn](https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/) — Wired AI
 
-### 8. medical AI — 1 article this week (🆕 new this week)
-- [AI Has Human Doctors Asking: What’s Left for Us?](https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/) — Wired AI
+### 8. local AI — 1 article this week (🆕 new this week)
+- [How to Run a Chatbot on Your Own Computer](https://www.wired.com/story/how-to-run-your-own-local-llm/) — Wired AI
 
-### 9. AI art theft — 1 article this week (🆕 new this week)
-- [He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them](https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/) — Wired AI
+### 9. data privacy — 1 article this week (→ steady, was 1 last week)
+- [How to Run a Chatbot on Your Own Computer](https://www.wired.com/story/how-to-run-your-own-local-llm/) — Wired AI
 
-### 10. creator rights — 1 article this week (🆕 new this week)
-- [He Scraped All of Their Art for AI. Now He’s Collaborating on a Tool to Help Them](https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/) — Wired AI
+### 10. chatbots — 1 article this week (🆕 new this week)
+- [How to Run a Chatbot on Your Own Computer](https://www.wired.com/story/how-to-run-your-own-local-llm/) — Wired AI
