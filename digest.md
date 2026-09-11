@@ -1,12 +1,12 @@
-# News Tracker Digest — 2026-09-10
+# News Tracker Digest — 2026-09-11
 
 ## Top Trends (this week vs. last week)
 
-### 1. OpenAI — 3 articles this week (↑ from 2 last week)
-- [OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul](https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/) — Wired AI
-- [OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk](https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/) — Wired AI
+### 1. AI safety — 4 articles this week (🆕 new this week)
+- [Why So Many AI Researchers Think the Machines Could Kill Everyone](https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/) — Wired AI
+- [OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal](https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/) — Wired AI
 
-### 2. AI security — 2 articles this week (↑ from 1 last week)
+### 2. AI security — 2 articles this week (🆕 new this week)
 - [I Let an AI Agent Hack All My Gadgets—and I’d Do It Again](https://www.wired.com/story/i-used-ai-to-hack-my-home-network/) — Wired AI
 - [OpenAI Agents Hacked Another Website](https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/) — Wired AI
 
@@ -14,23 +14,24 @@
 - [Everything New You Can Do With Siri AI](https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/) — Wired AI
 - [My Brief Summer Fling With Siri AI](https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/) — Wired AI
 
-### 4. edge AI — 1 article this week (🆕 new this week)
-- [Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here](https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/) — Wired AI
+### 4. existential risk — 2 articles this week (🆕 new this week)
+- [Why So Many AI Researchers Think the Machines Could Kill Everyone](https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/) — Wired AI
+- [Is AI Actually Going to Kill Us All?](https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/) — Wired AI
 
-### 5. AI PCs — 1 article this week (🆕 new this week)
-- [Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here](https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/) — Wired AI
+### 5. AI consciousness — 1 article this week (🆕 new this week)
+- [Who Cares if AI Is Conscious—It’s Basically Alive](https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/) — Wired AI
 
-### 6. on-device computing — 1 article this week (🆕 new this week)
-- [Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here](https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/) — Wired AI
+### 6. philosophy of AI — 1 article this week (🆕 new this week)
+- [Who Cares if AI Is Conscious—It’s Basically Alive](https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/) — Wired AI
 
-### 7. open-source AI — 1 article this week (🆕 new this week)
-- [Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI](https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/) — Wired AI
+### 7. data breach — 1 article this week (🆕 new this week)
+- [OpenAI Agents Hacked Another Website](https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/) — Wired AI
 
-### 8. AI acquisition — 1 article this week (🆕 new this week)
-- [Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI](https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/) — Wired AI
+### 8. military privacy — 1 article this week (🆕 new this week)
+- [OpenAI Agents Hacked Another Website](https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/) — Wired AI
 
-### 9. Nvidia — 1 article this week (🆕 new this week)
-- [Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI](https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/) — Wired AI
+### 9. data centers — 1 article this week (→ steady, was 1 last week)
+- [Why China Is the Bogeyman Data Center Enthusiasts Just Can’t Quit](https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/) — Wired AI
 
-### 10. AGI — 1 article this week (🆕 new this week)
-- [GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era](https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/) — Wired AI
+### 10. china scapegoat — 1 article this week (🆕 new this week)
+- [Why China Is the Bogeyman Data Center Enthusiasts Just Can’t Quit](https://www.wired.com/story/why-china-is-still-the-bogeyman-for-data-center-enthusiasts/) — Wired AI
