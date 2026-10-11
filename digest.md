@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-10-10
+# News Tracker Digest — 2026-10-11
 
 ## Top Trends (this week vs. last week)
 
@@ -10,26 +10,27 @@
 - [OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me](https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/) — Wired AI
 - [OpenAI Is Pissing Off a Bunch of Mathematicians—Again](https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/) — Wired AI
 
-### 3. AI privacy — 1 article this week (🆕 new this week)
-- [Muse Creates Detailed Profiles of All Your Friends and Family](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/) — Wired AI
+### 3. generative AI — 2 articles this week (🆕 new this week)
+- [I Made Terrible Games With Google’s AI Playground](https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/) — Wired AI
+- [The New ChatGPT Is More Show Than Tell](https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/) — Wired AI
 
-### 4. social AI — 1 article this week (🆕 new this week)
-- [Muse Creates Detailed Profiles of All Your Friends and Family](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/) — Wired AI
+### 4. AI — 1 article this week (🆕 new this week)
+- [Kevin Roose Didn’t Use AI to Write His Book About AI](https://www.wired.com/story/the-big-interview-podcast-kevin-roose/) — Wired AI
 
-### 5. data collection — 1 article this week (🆕 new this week)
-- [Muse Creates Detailed Profiles of All Your Friends and Family](https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/) — Wired AI
+### 5. book publishing — 1 article this week (🆕 new this week)
+- [Kevin Roose Didn’t Use AI to Write His Book About AI](https://www.wired.com/story/the-big-interview-podcast-kevin-roose/) — Wired AI
 
-### 6. AI inflation — 1 article this week (🆕 new this week)
-- [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/) — Wired AI
+### 6. AI criticism — 1 article this week (🆕 new this week)
+- [‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers](https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/) — Wired AI
 
-### 7. memory pricing — 1 article this week (🆕 new this week)
-- [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/) — Wired AI
+### 7. tech satire — 1 article this week (🆕 new this week)
+- [‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers](https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/) — Wired AI
 
-### 8. streaming devices — 1 article this week (🆕 new this week)
-- [The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike](https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/) — Wired AI
+### 8. AI safety — 1 article this week (↓ from 7 last week)
+- [‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers](https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/) — Wired AI
 
-### 9. data centers — 1 article this week (🆕 new this week)
-- [Rural Data Centers Are in for a Big Federal Tax Break](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/) — Wired AI
+### 9. AI ethics — 1 article this week (🆕 new this week)
+- [OpenAI Is Pissing Off a Bunch of Mathematicians—Again](https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/) — Wired AI
 
-### 10. rural incentives — 1 article this week (🆕 new this week)
-- [Rural Data Centers Are in for a Big Federal Tax Break](https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/) — Wired AI
+### 10. math AI — 1 article this week (🆕 new this week)
+- [OpenAI Is Pissing Off a Bunch of Mathematicians—Again](https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/) — Wired AI
