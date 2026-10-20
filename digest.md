@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-10-19
+# News Tracker Digest — 2026-10-20
 
 ## Top Trends (this week vs. last week)
 
@@ -14,26 +14,27 @@
 - [Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card](https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/) — Wired AI
 - [OpenAI and Anthropic Tell British Lawmakers: Regulate Us](https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/) — Wired AI
 
-### 4. creator economy — 2 articles this week (🆕 new this week)
+### 4. OpenAI — 2 articles this week (→ steady, was 2 last week)
+- [OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody](https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/) — Wired AI
+- [An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office](https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/) — Wired AI
+
+### 5. creator economy — 2 articles this week (🆕 new this week)
 - [OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty](https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/) — Wired AI
 - [AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content](https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/) — Wired AI
 
-### 5. programming — 2 articles this week (🆕 new this week)
+### 6. programming — 2 articles this week (🆕 new this week)
 - [Chapter 2 of Ansi Common Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1792358357&) — Paul Graham
 - [Chapter 1 of Ansi Common Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1792358357&) — Paul Graham
 
-### 6. lisp — 2 articles this week (🆕 new this week)
+### 7. lisp — 2 articles this week (🆕 new this week)
 - [Chapter 2 of Ansi Common Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1792358357&) — Paul Graham
 - [Chapter 1 of Ansi Common Lisp](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1792358357&) — Paul Graham
 
-### 7. social media — 1 article this week (🆕 new this week)
-- [Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him](https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/) — Wired AI
+### 8. AI disruption — 1 article this week (🆕 new this week)
+- [Wikipedians Believed AI Would Come and Go. They Were Wrong](https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/) — Wired AI
 
-### 8. elon musk — 1 article this week (🆕 new this week)
-- [Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him](https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/) — Wired AI
+### 9. wikipedia decline — 1 article this week (🆕 new this week)
+- [Wikipedians Believed AI Would Come and Go. They Were Wrong](https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/) — Wired AI
 
-### 9. AI chatbots — 1 article this week (🆕 new this week)
-- [Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him](https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/) — Wired AI
-
-### 10. AI models — 1 article this week (🆕 new this week)
-- [Muse Wonder Puts Meta Back at the AI Frontier](https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/) — Wired AI
+### 10. information ecosystems — 1 article this week (🆕 new this week)
+- [Wikipedians Believed AI Would Come and Go. They Were Wrong](https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/) — Wired AI
