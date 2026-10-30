@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-10-29
+# News Tracker Digest — 2026-10-30
 
 ## Top Trends (this week vs. last week)
 
@@ -10,28 +10,29 @@
 - [Should AI Decide Your Court Case? This Judge Says Yes](https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/) — Wired AI
 - [UK Home Office May Face Investigation Over Use of OpenAI Tech](https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/) — Wired AI
 
-### 3. AI IPO — 2 articles this week (🆕 new this week)
+### 3. AI security — 2 articles this week (→ steady, was 2 last week)
+- [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/) — Wired AI
+- [The PHP Meltdown Shows How AI Makes Bugs More Exploitable](https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/) — Wired AI
+
+### 4. AI IPO — 2 articles this week (🆕 new this week)
 - [Anthropic’s IPO Prospectus Reveals What’s Under the Hood](https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/) — Wired AI
 - [Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/) — Wired AI
 
-### 4. Anthropic — 2 articles this week (🆕 new this week)
+### 5. Anthropic — 2 articles this week (🆕 new this week)
 - [Anthropic’s IPO Prospectus Reveals What’s Under the Hood](https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/) — Wired AI
 - [Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures](https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/) — Wired AI
 
-### 5. social robotics — 1 article this week (🆕 new this week)
-- [Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything](https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/) — Wired AI
+### 6. vulnerability exploitation — 1 article this week (🆕 new this week)
+- [The PHP Meltdown Shows How AI Makes Bugs More Exploitable](https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/) — Wired AI
 
-### 6. human-robot interaction — 1 article this week (🆕 new this week)
-- [Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything](https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/) — Wired AI
+### 7. AI hacking — 1 article this week (🆕 new this week)
+- [The PHP Meltdown Shows How AI Makes Bugs More Exploitable](https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/) — Wired AI
 
-### 7. design — 1 article this week (🆕 new this week)
-- [Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything](https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/) — Wired AI
+### 8. data centers — 1 article this week (↓ from 3 last week)
+- [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/) — Wired AI
 
-### 8. women in tech — 1 article this week (🆕 new this week)
-- [The Social Society Helping Women Join the AI Boom](https://www.wired.com/story/aged-intelligence-society-interview/) — Wired AI
+### 9. tech opposition — 1 article this week (🆕 new this week)
+- [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/) — Wired AI
 
-### 9. AI community — 1 article this week (🆕 new this week)
-- [The Social Society Helping Women Join the AI Boom](https://www.wired.com/story/aged-intelligence-society-interview/) — Wired AI
-
-### 10. midlife innovation — 1 article this week (🆕 new this week)
-- [The Social Society Helping Women Join the AI Boom](https://www.wired.com/story/aged-intelligence-society-interview/) — Wired AI
+### 10. digital infrastructure — 1 article this week (🆕 new this week)
+- [What the US Movement Against Data Centers Can Learn From Abroad](https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/) — Wired AI
