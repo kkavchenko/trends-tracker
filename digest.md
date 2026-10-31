@@ -1,18 +1,18 @@
-# News Tracker Digest — 2026-10-30
+# News Tracker Digest — 2026-10-31
 
 ## Top Trends (this week vs. last week)
 
-### 1. AI agents — 4 articles this week (↑ from 1 last week)
-- [I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet](https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/) — Wired AI
-- [I Tested Every Major AI Agent for a Day. Here’s the Best One](https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/) — Wired AI
+### 1. AI agents — 6 articles this week (↑ from 1 last week)
+- [An AI Agent Injected Drugs Into a Live Mouse’s Brain](https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/) — Wired AI
+- [Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/) — Wired AI
 
-### 2. AI regulation — 3 articles this week (↑ from 1 last week)
+### 2. AI security — 3 articles this week (↑ from 2 last week)
+- [How a Contractor’s Claude Agent Got Into the Pentagon](https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/) — Wired AI
+- [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/) — Wired AI
+
+### 3. AI regulation — 3 articles this week (↑ from 1 last week)
 - [Should AI Decide Your Court Case? This Judge Says Yes](https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/) — Wired AI
 - [UK Home Office May Face Investigation Over Use of OpenAI Tech](https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/) — Wired AI
-
-### 3. AI security — 2 articles this week (→ steady, was 2 last week)
-- [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/) — Wired AI
-- [The PHP Meltdown Shows How AI Makes Bugs More Exploitable](https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/) — Wired AI
 
 ### 4. AI IPO — 2 articles this week (🆕 new this week)
 - [Anthropic’s IPO Prospectus Reveals What’s Under the Hood](https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/) — Wired AI
