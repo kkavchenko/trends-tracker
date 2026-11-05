@@ -41,9 +41,9 @@ def scrape_source(page, source):
         from urllib.parse import urljoin
         href = urljoin(source["url"], href)
 
-        row = {"source": source["name"], "title": title, "url": href}
+        row = {"source": "rss", "origin": source["name"], "title": title, "url": href}
         try:
-            sb.table("articles").upsert(row, on_conflict="url").execute()
+            sb.table("items").upsert(row, on_conflict="url").execute()
             count += 1
         except Exception as e:
             print(f"  ! failed to upsert {href}: {e}")

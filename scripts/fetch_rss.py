@@ -1,5 +1,5 @@
 """
-Pull all configured RSS feeds and upsert new articles into Supabase.
+Pull all configured RSS feeds and upsert new items into Supabase.
 Dedup is handled by the `url` unique constraint — safe to re-run anytime.
 """
 import json
@@ -38,7 +38,8 @@ def fetch_source(source):
     count = 0
     for entry in feed.entries:
         row = {
-            "source": source["name"],
+            "source": "rss",
+            "origin": source["name"],
             "title": entry.get("title", "(untitled)"),
             "url": entry.get("link"),
             "published_at": parse_published(entry),
@@ -47,7 +48,7 @@ def fetch_source(source):
         if not row["url"]:
             continue
         try:
-            sb.table("articles").upsert(row, on_conflict="url").execute()
+            sb.table("items").upsert(row, on_conflict="url").execute()
             count += 1
         except Exception as e:
             print(f"  ! failed to upsert {row['url']}: {e}")
