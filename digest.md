@@ -1,4 +1,4 @@
-# News Tracker Digest — 2026-11-05
+# News Tracker Digest — 2026-11-06
 
 ## Top Trends (this week vs. last week)
 
@@ -14,24 +14,23 @@
 - [The Results Are In: Voters Hate Data Centers](https://www.wired.com/story/the-results-are-in-voters-hate-data-centers/) — Wired AI
 - [The Blue Wave Has Tech Bros Scrambling for Data Centers in Space](https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/) — Wired AI
 
-### 4. AI security — 2 articles this week (↑ from 1 last week)
+### 4. AI security — 1 article this week (↓ from 2 last week)
 - [How a Contractor’s Claude Agent Got Into the Pentagon](https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/) — Wired AI
-- [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/) — Wired AI
 
-### 5. defense contracting — 1 article this week (🆕 new this week)
-- [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/) — Wired AI
+### 5. government AI — 1 article this week (🆕 new this week)
+- [How a Contractor’s Claude Agent Got Into the Pentagon](https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/) — Wired AI
 
-### 6. data vulnerability — 1 article this week (🆕 new this week)
-- [A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System](https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/) — Wired AI
+### 6. Anthropic IPO — 1 article this week (🆕 new this week)
+- [How a Contractor’s Claude Agent Got Into the Pentagon](https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/) — Wired AI
 
-### 7. formal verification — 1 article this week (🆕 new this week)
-- [The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself](https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/) — Wired AI
+### 7. business disruption — 1 article this week (🆕 new this week)
+- [Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/) — Wired AI
 
-### 8. vibe coding — 1 article this week (🆕 new this week)
-- [The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself](https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/) — Wired AI
+### 8. Meta AI — 1 article this week (🆕 new this week)
+- [Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet](https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/) — Wired AI
 
-### 9. AI software — 1 article this week (🆕 new this week)
-- [The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself](https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/) — Wired AI
+### 9. biotech — 1 article this week (🆕 new this week)
+- [An AI Agent Injected Drugs Into a Live Mouse’s Brain](https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/) — Wired AI
 
-### 10. open-source AI — 1 article this week (🆕 new this week)
-- [Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race](https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/) — Wired AI
+### 10. lab automation — 1 article this week (🆕 new this week)
+- [An AI Agent Injected Drugs Into a Live Mouse’s Brain](https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/) — Wired AI
