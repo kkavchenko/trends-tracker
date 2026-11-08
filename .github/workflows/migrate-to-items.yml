@@ -1,0 +1,37 @@
+name: migrate articles to items (one-time)
+
+# Manual-only. Run once from the Actions tab after applying
+# db/migrations/0002_signal_store.sql in the Supabase SQL editor.
+# Safe to re-run — scripts/migrate_articles_to_items.py skips urls
+# already present in items.
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (count only, write nothing)"
+        type: boolean
+        default: true
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install supabase python-dotenv
+
+      - name: Migrate
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python scripts/migrate_articles_to_items.py --dry-run
+          else
+            python scripts/migrate_articles_to_items.py
+          fi
