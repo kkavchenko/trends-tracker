@@ -1,4 +1,4 @@
-name: fetch-and-tag
+name: fetch
 
 on:
   schedule:
@@ -32,10 +32,3 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: python scripts/fetch_scrape.py
-
-      - name: Tag new articles
-        env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/tag_articles.py
